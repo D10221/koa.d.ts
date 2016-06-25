@@ -1,8 +1,8 @@
 {
-  "name": "domready",
-  "main": "domready.d.ts",
-  "homepage": "https://github.com/ded/domready",
+  "name": "koa",
+  "main": "koa.d.ts",
+  "homepage": "https://github.com/koajs/koa",
   "dependencies": {
   },
-  "version": "1.0.8"
+  "version": "2.0.8"
 }
