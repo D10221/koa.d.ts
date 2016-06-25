@@ -1,0 +1,8 @@
+{
+  "name": "domready",
+  "main": "domready.d.ts",
+  "homepage": "https://github.com/ded/domready",
+  "dependencies": {
+  },
+  "version": "1.0.8"
+}
