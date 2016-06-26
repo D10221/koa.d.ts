@@ -1,7 +1,7 @@
 {
-  "name": "koa.d.ts",
+  "name": "koa2x.d.ts",
   "version": "0.0.1",
-  "description": "koa typescript definition",
+  "description": "koa 2x typescript definition",
   "main": "koa.d.ts",
   "scripts": {
     "test": "mocha built/",

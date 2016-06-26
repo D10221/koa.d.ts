@@ -1,6 +1,6 @@
 {
-  "name": "koa",
-  "main": "koa.d.ts",
+  "name": "koa2x",
+  "main": "koa2x.d.ts",
   "homepage": "https://github.com/koajs/koa",
   "globalDependencies": {
     "mocha": "registry:env/mocha#2.2.5+20160321223601",
